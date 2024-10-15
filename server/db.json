@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://www.gento.vn/wp-content/uploads/2023/05/tui-xach-nu-6-600x600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsEpwunmVQO_6B5hNBaNbthYQ2r4SAujQb0g&s"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://down-vn.img.susercontent.com/file/13e36e62c98873a51968e6821f5995d4"
+    }
+  ],
+  "carts": []
+}
